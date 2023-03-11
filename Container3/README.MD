@@ -66,8 +66,6 @@ This endpoint logs out a user by updating their online status to "offline" in Fi
 
 Example request body:
 
-json
-
 ```
 {
   "username": "user@example.com"
@@ -75,8 +73,6 @@ json
 ```
 
 Example response body (success):
-
-json
 
 ```
 {
@@ -86,8 +82,6 @@ json
 ```
 
 Example response body (failure):
-
-json
 
 ```
 {

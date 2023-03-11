@@ -46,7 +46,6 @@ This endpoint allows users to register by submitting a JSON payload with their u
 
 Example request body:
 
-perl
 
 ```
 {
@@ -59,7 +58,6 @@ perl
 
 Example response body (success):
 
-json
 
 ```
 {
@@ -70,7 +68,6 @@ json
 
 Example response body (failure):
 
-json
 
 ```
 {
